@@ -11,6 +11,7 @@ public class EmotePicker : MonoBehaviour
 {
     private Animation anim;
     public AudioClip clip;
+    public AudioClip fresh;
 
 
 
@@ -63,5 +64,10 @@ public class EmotePicker : MonoBehaviour
     {
         AudioSource.PlayClipAtPoint(clip, new Vector3(5, 1, 2));
     }
-      
+
+    public void Fresh()
+    {
+        AudioSource.PlayClipAtPoint(fresh, new Vector3(5, 1, 2));
+    }
+
 }
