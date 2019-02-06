@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Sprites;
@@ -10,7 +10,7 @@ public class HeadChanger : MonoBehaviour
 {
     public GameObject Head;
     public Sprite image;
-   public  string url;
+
 
     // Start is called before the first frame update
     void Start()
@@ -28,6 +28,11 @@ public class HeadChanger : MonoBehaviour
     {
      
        
+    }
+    
+    public void shit
+    {
+    
     }
 
 
