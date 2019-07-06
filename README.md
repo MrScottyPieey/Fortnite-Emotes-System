@@ -6,7 +6,7 @@ To build it you will need the Unity Plus or Unity Pro license to order to this t
 
 Windows
 
-Microsoft Visual Studio 2017 and Unity 2018.3 or higher.
+Microsoft Visual Studio 2019 and Unity 2019.1 or higher.
 To Get Custom Faces put it in the Faces folder
 
 
